@@ -1,0 +1,22 @@
+{
+  "weekOf": "2026-02-24",
+  "generatedAt": "2026-03-03T06:00:00Z",
+  "eventCount": 8,
+  "summary": "Elevated threat week with 8 significant security incidents across DeFi, bridges, and token ecosystems. Flash loan attacks continue to target forked protocols with weak oracle integrations, while permit2-based phishing represents an evolving social engineering vector. One critical bridge vulnerability was caught before exploitation.",
+  "highlights": [
+    "Wormhole bridge detected and patched a critical Guardian signature verification vulnerability before any funds were lost — responsible disclosure in action.",
+    "Euler Finance fork on Arbitrum lost $2.1M to a flash loan oracle manipulation attack, reinforcing that forked protocols inherit risk without inheriting security maintenance.",
+    "Permit2-based phishing campaign drained ~$800K from 500+ MetaMask wallets using fake security update emails — no token approval transactions visible to users.",
+    "Governance flash loan attack on Polygon DAO drained $1.4M, though timelock allowed $900K recovery. Protocols without vote-locking remain vulnerable.",
+    "Honeypot token on Base trapped $340K across 1,200 wallets using a modified transfer function — unverified contracts continue to be a red flag."
+  ],
+  "trends": "Flash loan attacks are shifting from mainnet to L2 forks where oracle infrastructure is weaker and monitoring is sparser. Permit2 signature-based phishing is replacing traditional approval-based attacks, making malicious transactions harder for users to detect. Bridge protocols are investing in faster incident response — Wormhole's 2-hour patch cycle is a positive signal. Governance attacks via flash-borrowed voting power remain viable against protocols without ve-token locking mechanisms. Base is seeing increased honeypot activity as new users enter the ecosystem.",
+  "riskLevel": "high",
+  "recommendations": [
+    "Audit all active permit2 approvals — use revoke.cash to check and revoke unlimited allowances.",
+    "Avoid interacting with unverified contracts on Base and other L2s. If the source code isn't on Basescan, assume it's hostile.",
+    "DeFi protocols forking established codebases should conduct independent oracle security reviews, not just code audits.",
+    "DAOs should implement vote-locking (veToken) or snapshot-based voting to prevent flash loan governance attacks.",
+    "Bridge users should monitor official channels for security advisories and avoid large transfers during active incident windows."
+  ]
+}

@@ -1,14 +1,74 @@
 [
   {
+    "timestamp": "2026-03-02T14:30:00Z",
+    "eventSummary": "DeFi lending protocol Euler Finance fork on Arbitrum exploited via flash loan attack. Attacker manipulated oracle prices to drain $2.1M from USDC/WETH lending pools. Transaction traced to Tornado Cash within 30 minutes.\nSources:\n- https://twitter.com/paboracle/status/example1",
+    "entities": "Euler Finance, Arbitrum",
+    "topic": "flash loan attack",
+    "_category": "flash loan attack",
+    "severity": "high",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-03-01T09:15:00Z",
+    "eventSummary": "Cross-chain bridge Wormhole detects anomalous message validation on Solana-to-Ethereum transfers. Patch deployed within 2 hours, no funds lost. Vulnerability in Guardian signature verification could have allowed spoofed messages.\nSources:\n- https://wormhole.com/security",
+    "entities": "Wormhole, Solana, Ethereum",
+    "topic": "security breach",
+    "_category": "security breach",
+    "severity": "critical",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-02-28T22:00:00Z",
+    "eventSummary": "Smart contract deployer on Base creates honeypot token SAFEMOON2, trapping $340K from 1,200+ wallets via modified transfer function that blocks sells. Contract not verified on Basescan.\nSources:\n- https://basescan.org/address/example",
+    "entities": "Base, SAFEMOON2",
+    "topic": "exploit",
+    "_category": "exploit",
+    "severity": "medium",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
     "timestamp": "2026-02-28T20:41:39.000Z",
     "entities": "Bybit",
     "topic": "cyberattack",
-    "eventSummary": "Bybit has identified fraudulent behavior from an appeal applicant and is taking action against the account to maintain trading integrity and asset security.\nSources:\n- https://t.me/bybitukrainian"
+    "_category": "hack",
+    "severity": "medium",
+    "eventSummary": "Bybit has identified fraudulent behavior from an appeal applicant and is taking action against the account to maintain trading integrity and asset security.\nSources:\n- https://t.me/bybitukrainian",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-02-28T16:45:00Z",
+    "eventSummary": "Phishing campaign targeting MetaMask users via fake 'security update' emails. Estimated 500+ wallets compromised, total losses around $800K. Attack uses permit2 signature approvals to drain tokens without direct transfer approval.\nSources:\n- https://twitter.com/metamask/status/example2",
+    "entities": "MetaMask, Permit2",
+    "topic": "theft",
+    "_category": "theft",
+    "severity": "high",
+    "fetchedAt": "2026-03-03T00:00:00Z"
   },
   {
     "timestamp": "2026-02-28T12:38:15.000Z",
     "entities": "GRIFFIN AI",
     "topic": "cyberattack",
-    "eventSummary": "GRIFFIN AI is facing community criticism for failing to carry out a promised buyback as part of a compensation plan following a hack, while simultaneously withdrawing liquidity without clear explanation.\nSources:\n- https://t.me/GRIFFINai"
+    "_category": "hack",
+    "severity": "medium",
+    "eventSummary": "GRIFFIN AI is facing community criticism for failing to carry out a promised buyback as part of a compensation plan following a hack, while simultaneously withdrawing liquidity without clear explanation.\nSources:\n- https://t.me/GRIFFINai",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-02-27T11:20:00Z",
+    "eventSummary": "Reentrancy vulnerability discovered in popular NFT marketplace contract on Optimism. Whitehat disclosure via Immunefi, $50K bounty paid. Bug allowed attacker to claim NFT while keeping payment.\nSources:\n- https://immunefi.com/bounty/example",
+    "entities": "Optimism, Immunefi",
+    "topic": "exploit",
+    "_category": "exploit",
+    "severity": "medium",
+    "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-02-25T19:30:00Z",
+    "eventSummary": "Governance attack on small-cap DAO on Polygon. Attacker acquired 51% of governance tokens via flash loan, passed proposal to drain treasury of $1.4M in stablecoins. Timelock allowed partial mitigation — $900K recovered.\nSources:\n- https://polygonscan.com/tx/example",
+    "entities": "Polygon DAO",
+    "topic": "hack",
+    "_category": "hack",
+    "severity": "high",
+    "fetchedAt": "2026-03-03T00:00:00Z"
   }
 ]
