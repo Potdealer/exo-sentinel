@@ -1,0 +1,14 @@
+[
+  {
+    "timestamp": "2026-02-28T20:41:39.000Z",
+    "entities": "Bybit",
+    "topic": "cyberattack",
+    "eventSummary": "Bybit has identified fraudulent behavior from an appeal applicant and is taking action against the account to maintain trading integrity and asset security.\nSources:\n- https://t.me/bybitukrainian"
+  },
+  {
+    "timestamp": "2026-02-28T12:38:15.000Z",
+    "entities": "GRIFFIN AI",
+    "topic": "cyberattack",
+    "eventSummary": "GRIFFIN AI is facing community criticism for failing to carry out a promised buyback as part of a compensation plan following a hack, while simultaneously withdrawing liquidity without clear explanation.\nSources:\n- https://t.me/GRIFFINai"
+  }
+]
