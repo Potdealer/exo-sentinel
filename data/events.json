@@ -70,5 +70,15 @@
     "_category": "hack",
     "severity": "high",
     "fetchedAt": "2026-03-03T00:00:00Z"
+  },
+  {
+    "timestamp": "2026-02-25T09:01:45.000Z",
+    "entities": "blockchain bridges",
+    "topic": "security breach",
+    "eventSummary": "Holdstation confirmed a security breach resulting in the theft of 462,000 USDT.\nSources:\n- https://www.reddit.com/r/CryptoCurrency/comments/1re61h2/holdstation_security_breach_462000_usdt_confirmed",
+    "_category": "security breach",
+    "_queryEntities": "blockchain bridges, cross-chain protocols",
+    "severity": "high",
+    "fetchedAt": "2026-03-03T09:32:23.627Z"
   }
 ]
