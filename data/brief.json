@@ -1,22 +1,20 @@
 {
-  "weekOf": "2026-02-24",
-  "generatedAt": "2026-03-03T09:32:23.678Z",
-  "eventCount": 9,
-  "summary": "This week witnessed significant security incidents in the crypto space, particularly affecting DeFi protocols and cross-chain bridges. Notably, a flash loan attack on Euler Finance resulted in a loss of $2.1M, while a critical vulnerability in the Wormhole bridge was swiftly patched, preventing potential exploits.",
+  "weekOf": "2026-03-01",
+  "generatedAt": "2026-03-08T12:39:08.696Z",
+  "eventCount": 2,
+  "summary": "This week has seen significant security threats in the crypto space, particularly with the emergence of the Coruna iOS exploit kit targeting mobile wallets and a flash loan attack on Euler Finance. These incidents highlight the ongoing vulnerabilities in both mobile and DeFi ecosystems.",
   "highlights": [
-    "On March 2, Euler Finance's fork on Arbitrum was exploited via a flash loan attack, leading to a loss of $2.1M from USDC/WETH lending pools, with the transaction traced to Tornado Cash.",
-    "A critical security breach was detected in the Wormhole cross-chain bridge on March 1, where anomalous message validation could have led to spoofed messages; however, a patch was deployed within 2 hours, preventing any loss of funds.",
-    "A phishing campaign targeting MetaMask users resulted in over 500 wallets being compromised, with total losses estimated at $800K, utilizing permit2 signature approvals to drain tokens.",
-    "On February 25, a governance attack on a small-cap DAO on Polygon allowed an attacker to drain $1.4M in stablecoins through a flash loan, though $900K was recovered due to a timelock mechanism.",
-    "A honeypot token named SAFEMOON2 was deployed on Base, trapping $340K from over 1,200 wallets through a modified transfer function that blocked sells, highlighting risks in unverified contracts."
+    "On March 3, Google researchers revealed the Coruna iOS exploit kit, which includes 23 exploits targeting iOS versions 13 through 17.2.1, now being used by cybercriminals to steal cryptocurrency from mobile wallets.",
+    "On March 2, Euler Finance's fork on Arbitrum was exploited through a flash loan attack, resulting in a loss of $2.1 million from USDC/WETH lending pools after manipulating oracle prices.",
+    "The Cybersecurity and Infrastructure Security Agency (CISA) has mandated federal agencies to patch vulnerabilities associated with the Coruna exploit, indicating a heightened risk for users of affected iOS versions."
   ],
-  "trends": "This week saw a notable increase in flash loan attacks and governance exploits, particularly targeting DeFi protocols and small-cap DAOs. The use of phishing techniques is also on the rise, with MetaMask users being specifically targeted. The trend indicates a growing sophistication in attack vectors, especially in manipulating smart contracts and exploiting cross-chain vulnerabilities. Protocols on Ethereum and its layer-2 solutions, such as Arbitrum and Optimism, are facing heightened risks.",
+  "trends": "The use of sophisticated exploit kits like Coruna indicates a rising trend in mobile-targeted attacks, particularly against cryptocurrency wallets. Additionally, flash loan attacks continue to pose significant risks to DeFi protocols, with Euler Finance being the latest victim. The increasing manipulation of oracle prices suggests that protocols relying on external data feeds are particularly vulnerable, necessitating enhanced security measures.",
   "riskLevel": "critical",
   "recommendations": [
-    "Implement robust oracle price feeds and limit the use of flash loans in governance proposals to mitigate risks of manipulation.",
-    "Enhance security measures for cross-chain bridges, including thorough validation of message signatures to prevent spoofing.",
-    "Educate users on phishing tactics and encourage the use of hardware wallets to safeguard against unauthorized access.",
-    "Conduct regular audits of smart contracts and ensure all deployed contracts are verified on their respective block explorers.",
-    "Establish a clear communication protocol with the community regarding security incidents and recovery plans to maintain trust and transparency."
+    "DeFi users should ensure their mobile wallets are updated to the latest iOS versions to mitigate risks from the Coruna exploit kit.",
+    "Protocol teams must implement stronger oracle price validation mechanisms to prevent manipulation attacks, especially in lending and borrowing scenarios.",
+    "Users should avoid interacting with unknown or suspicious links and ensure they are using verified applications to reduce the risk of phishing attacks.",
+    "Regularly audit smart contracts and employ bug bounty programs to identify and rectify vulnerabilities before they can be exploited.",
+    "Stay informed about emerging threats and vulnerabilities through trusted cybersecurity channels and apply necessary patches promptly."
   ]
 }

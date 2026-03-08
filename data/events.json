@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-03-03T21:00:00.000Z",
+    "entities": "smart contracts, token contracts",
+    "topic": "exploit",
+    "eventSummary": "Google researchers have uncovered a sophisticated iOS exploit kit named 'Coruna' that includes 23 exploits targeting versions 13 through 17.2.1. The kit, which was previously used by surveillance and nation-state actors, is now being utilized by cybercriminals in phishing attacks to steal cryptocurrency from mobile wallets. The Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch the associated vulnerabilities.\nSources:\n- https://cointelegraph.com/news/google-warns-crypto-scams-using-new-and-powerful-iphone-exploit-kit\n- https://www.bleepingcomputer.com/news/security/spyware-grade-coruna-ios-exploit-kit-now-used-in-crypto-theft-attacks/\n- https://arstechnica.com/security/2026/03/cisa-adds-3-ios-flaws-to-its-catalog-of-known-exploited-vulnerabilities",
+    "_category": "exploit",
+    "_queryEntities": "smart contracts, token contracts",
+    "severity": "high",
+    "fetchedAt": "2026-03-08T12:39:08.658Z"
+  },
+  {
     "timestamp": "2026-03-02T14:30:00Z",
     "eventSummary": "DeFi lending protocol Euler Finance fork on Arbitrum exploited via flash loan attack. Attacker manipulated oracle prices to drain $2.1M from USDC/WETH lending pools. Transaction traced to Tornado Cash within 30 minutes.\nSources:\n- https://twitter.com/paboracle/status/example1",
     "entities": "Euler Finance, Arbitrum",
