@@ -1,20 +1,20 @@
 {
-  "weekOf": "2026-03-01",
-  "generatedAt": "2026-03-08T12:39:08.696Z",
-  "eventCount": 2,
-  "summary": "This week has seen significant security threats in the crypto space, particularly with the emergence of the Coruna iOS exploit kit targeting mobile wallets and a flash loan attack on Euler Finance. These incidents highlight the ongoing vulnerabilities in both mobile and DeFi ecosystems.",
+  "weekOf": "2026-03-08",
+  "generatedAt": "2026-03-15T12:41:56.710Z",
+  "eventCount": 1,
+  "summary": "This week witnessed a significant security threat targeting macOS users through a fake CleanMyMac website, which employs a 'ClickFix' attack to distribute SHub Stealer malware. The malware poses a critical risk by stealing Keychain credentials and creating backdoors into popular cryptocurrency wallets, highlighting the ongoing vulnerabilities in user security practices.",
   "highlights": [
-    "On March 3, Google researchers revealed the Coruna iOS exploit kit, which includes 23 exploits targeting iOS versions 13 through 17.2.1, now being used by cybercriminals to steal cryptocurrency from mobile wallets.",
-    "On March 2, Euler Finance's fork on Arbitrum was exploited through a flash loan attack, resulting in a loss of $2.1 million from USDC/WETH lending pools after manipulating oracle prices.",
-    "The Cybersecurity and Infrastructure Security Agency (CISA) has mandated federal agencies to patch vulnerabilities associated with the Coruna exploit, indicating a heightened risk for users of affected iOS versions."
+    "A fake CleanMyMac website has been identified, utilizing a 'ClickFix' attack to deceive macOS users into installing SHub Stealer malware. This malware is particularly dangerous as it targets Keychain credentials and can compromise wallets like Exodus, Ledger, and Trezor.",
+    "The SHub Stealer malware's ability to create backdoors into cryptocurrency wallets raises alarms about the security of wallet protocols, emphasizing the need for enhanced user education on phishing and malware threats.",
+    "This incident underscores a growing trend in malware attacks that exploit trusted applications and services to deliver malicious payloads, indicating a shift in tactics from traditional phishing methods."
   ],
-  "trends": "The use of sophisticated exploit kits like Coruna indicates a rising trend in mobile-targeted attacks, particularly against cryptocurrency wallets. Additionally, flash loan attacks continue to pose significant risks to DeFi protocols, with Euler Finance being the latest victim. The increasing manipulation of oracle prices suggests that protocols relying on external data feeds are particularly vulnerable, necessitating enhanced security measures.",
-  "riskLevel": "critical",
+  "trends": "The attack vector of social engineering, particularly through fake websites and trusted applications, is trending upwards. Protocols such as Exodus, Ledger, and Trezor are increasingly targeted, indicating that attackers are focusing on widely-used wallets. This shift suggests a need for heightened security measures and user awareness in the crypto space, especially on macOS systems, where users may feel more secure.",
+  "riskLevel": "high",
   "recommendations": [
-    "DeFi users should ensure their mobile wallets are updated to the latest iOS versions to mitigate risks from the Coruna exploit kit.",
-    "Protocol teams must implement stronger oracle price validation mechanisms to prevent manipulation attacks, especially in lending and borrowing scenarios.",
-    "Users should avoid interacting with unknown or suspicious links and ensure they are using verified applications to reduce the risk of phishing attacks.",
-    "Regularly audit smart contracts and employ bug bounty programs to identify and rectify vulnerabilities before they can be exploited.",
-    "Stay informed about emerging threats and vulnerabilities through trusted cybersecurity channels and apply necessary patches promptly."
+    "Users should verify the authenticity of websites and applications before downloading or executing any commands, especially those related to cryptocurrency.",
+    "Implement two-factor authentication (2FA) on all cryptocurrency wallets and accounts to add an extra layer of security against unauthorized access.",
+    "Regularly update software and security protocols to protect against known vulnerabilities and malware threats.",
+    "Educate users about the risks of social engineering attacks and the importance of recognizing phishing attempts.",
+    "Encourage wallet providers to enhance their security features and provide clear guidance on how to identify and avoid phishing threats."
   ]
 }

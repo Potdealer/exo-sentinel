@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-03-09T18:39:45.000Z",
+    "entities": "Exodus, Ledger, Trezor",
+    "topic": "hack",
+    "eventSummary": "A fake CleanMyMac website is using a 'ClickFix' attack to trick macOS users into installing SHub Stealer malware via Terminal commands. The malware is designed to steal Keychain credentials and create backdoors into cryptocurrency wallets including Exodus, Ledger, and Trezor.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mgnfr6pq6c2t",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-03-15T12:41:56.663Z"
+  },
+  {
     "timestamp": "2026-03-03T21:00:00.000Z",
     "entities": "smart contracts, token contracts",
     "topic": "exploit",
