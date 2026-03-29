@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-03-26T16:21:24.000Z",
+    "entities": "UNC4899",
+    "topic": "security breach",
+    "eventSummary": "A security breach at a cryptocurrency firm was attributed to the threat actor UNC4899. The incident occurred after a developer at the firm AirDropped a trojanized file onto a work device. This event falls under the security of cross-chain protocols and entities within the blockchain ecosystem.\nSources:\n- https://www.reddit.com/r/cybersecurity/comments/1s4a7el/unc4899_breached_crypto_firm_after_developer",
+    "_category": "security breach",
+    "_queryEntities": "blockchain bridges, cross-chain protocols",
+    "severity": "critical",
+    "fetchedAt": "2026-03-29T12:44:37.778Z"
+  },
+  {
     "timestamp": "2026-03-15T15:48:23.000Z",
     "entities": "Venus Protocol",
     "topic": "security breach",
