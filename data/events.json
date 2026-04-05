@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-03T03:09:52.000Z",
+    "entities": "Drift, Solana",
+    "topic": "hack",
+    "eventSummary": "Reports indicate a security incident involving Drift, a DeFi protocol on the Solana network, which resulted in significant losses.\nSources:\n- https://t.me/cryptodakurobinhooders",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "low",
+    "fetchedAt": "2026-04-05T12:47:15.602Z"
+  },
+  {
     "timestamp": "2026-03-26T16:21:24.000Z",
     "entities": "UNC4899",
     "topic": "security breach",
