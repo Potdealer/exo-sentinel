@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-07T13:21:50.000Z",
+    "entities": "cryptocurrency exchanges, DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "Hackers are reportedly selling counterfeit hardware wallets and pre-loaded seed phrases designed to steal cryptocurrency from users. These malicious devices are used to compromise private keys and drain funds from victims' wallets.\nSources:\n- https://www.reddit.com/r/CryptoCurrency/comments/1setqmo/hackers_selling_fake_hardware_wallets_and",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-04-12T12:53:02.008Z"
+  },
+  {
     "timestamp": "2026-04-03T03:09:52.000Z",
     "entities": "Drift, Solana",
     "topic": "hack",

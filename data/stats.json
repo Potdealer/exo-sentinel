@@ -1,9 +1,9 @@
 {
-  "total": 14,
+  "total": 15,
   "thisWeek": 1,
   "critical": 0,
-  "high": 0,
+  "high": 1,
   "medium": 0,
-  "low": 1,
-  "generatedAt": "2026-04-05T12:47:15.602Z"
+  "low": 0,
+  "generatedAt": "2026-04-12T12:53:02.009Z"
 }
