@@ -1,20 +1,19 @@
 {
-  "weekOf": "2026-04-05",
-  "generatedAt": "2026-04-12T12:53:02.054Z",
+  "weekOf": "2026-04-12",
+  "generatedAt": "2026-04-19T12:53:02.243Z",
   "eventCount": 1,
-  "summary": "This week, the crypto security landscape has been significantly impacted by the emergence of counterfeit hardware wallets that are being sold to unsuspecting users, posing a critical risk to personal funds. The ongoing threat of phishing and social engineering attacks remains prevalent, highlighting the need for heightened vigilance among users and developers alike.",
+  "summary": "This week, the crypto security landscape has been marked by a significant blackmail incident involving the exchange Kraken, following a breach of user data. The threat of extortion in the crypto space continues to pose risks to exchanges and their users, highlighting the need for enhanced security measures.",
   "highlights": [
-    "On April 7, 2026, reports surfaced about hackers selling counterfeit hardware wallets equipped with pre-loaded seed phrases, which are designed to steal cryptocurrency from users. These devices can compromise private keys and drain funds from victims' wallets.",
-    "The counterfeit hardware wallets are being marketed through various online platforms, raising concerns about the effectiveness of current consumer protection measures in the crypto space.",
-    "In addition to hardware wallet scams, phishing attacks targeting DeFi protocols have seen a resurgence, with attackers leveraging social engineering tactics to gain access to user accounts."
+    "On April 14, 2026, it was reported that criminals are blackmailing Kraken after a security incident that compromised user data. The exchange is currently assessing the situation and has not disclosed the extent of the breach.",
+    "The incident at Kraken underscores the ongoing vulnerability of cryptocurrency exchanges to data breaches and the subsequent risk of extortion, which has been a growing trend in the industry."
   ],
-  "trends": "The trend of counterfeit hardware wallets indicates a rising sophistication in hardware-based attacks, with attackers increasingly targeting users directly through deceptive marketing. Phishing attempts have also increased, particularly against popular DeFi protocols on Ethereum and Binance Smart Chain, suggesting that attackers are focusing on high-value targets. Overall, the risk landscape is shifting towards hardware vulnerabilities and social engineering, necessitating a stronger emphasis on user education and device verification.",
-  "riskLevel": "critical",
+  "trends": "The trend of blackmail and extortion following data breaches is on the rise, particularly targeting centralized exchanges. Attack vectors such as phishing and social engineering are increasingly being employed to gain access to sensitive user information. Protocols that handle large volumes of user data are particularly at risk, with exchanges being prime targets due to their centralized nature and the valuable data they hold.",
+  "riskLevel": "high",
   "recommendations": [
-    "Users should only purchase hardware wallets from official manufacturers and authorized retailers. Verify the authenticity of the device before use.",
-    "Implement multi-factor authentication (MFA) on all crypto accounts to add an additional layer of security against unauthorized access.",
-    "Educate users about the dangers of phishing and social engineering, encouraging them to verify communications and links before taking action.",
-    "Protocols should conduct regular security audits and implement robust monitoring systems to detect unusual activities or potential breaches.",
-    "Encourage community reporting of counterfeit products and scams to build a collective defense against fraudulent activities."
+    "Implement multi-factor authentication (MFA) for all user accounts to enhance security against unauthorized access.",
+    "Conduct regular security audits and penetration testing to identify and mitigate vulnerabilities in systems handling user data.",
+    "Educate users about phishing attacks and social engineering tactics to reduce the risk of falling victim to such schemes.",
+    "Establish a robust incident response plan that includes communication strategies for users in the event of a data breach.",
+    "Consider investing in cyber insurance to mitigate financial losses from potential extortion or data breaches."
   ]
 }

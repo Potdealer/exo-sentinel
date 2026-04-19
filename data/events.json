@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-14T01:23:38.000Z",
+    "entities": "Kraken",
+    "topic": "hack",
+    "eventSummary": "Criminals are reportedly blackmailing the cryptocurrency exchange Kraken following a security incident involving user data.\nSources:\n- https://www.reddit.com/r/CryptoCurrency/comments/1skqr0y/criminals_blackmail_crypto_exchange_kraken_over",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "low",
+    "fetchedAt": "2026-04-19T12:53:02.197Z"
+  },
+  {
     "timestamp": "2026-04-07T13:21:50.000Z",
     "entities": "cryptocurrency exchanges, DeFi protocols",
     "topic": "hack",
