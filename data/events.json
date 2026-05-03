@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-04-27T12:40:07.000Z",
+    "entities": "Robinhood",
+    "topic": "hack",
+    "eventSummary": "Reports emerged on social media suggesting that the cryptocurrency exchange and trading platform Robinhood may have been compromised in a security breach. Users reported unauthorized activity or suspected hacking incidents related to their accounts.\nSources:\n- https://twitter.com/18856867/status/2048743999599419630\n- https://www.reddit.com/r/wallstreetbets/comments/1sydbzz/damn_just_got_robbed_in_the_hood",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-05-03T12:59:38.017Z"
+  },
+  {
     "timestamp": "2026-04-23T15:19:39.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",
