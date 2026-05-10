@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-04T04:46:53.000Z",
+    "entities": "DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "A wave of DeFi protocol hacks is reported to be increasing pressure on liquid and yield-focused crypto funds. Analysts suggest these security breaches are impacting the broader cryptocurrency investment market.\nSources:\n- https://twitter.com/963767159536209921/status/2051161621150511560\n- https://t.me/the_block_crypto/34242",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-05-10T13:07:44.746Z"
+  },
+  {
     "timestamp": "2026-04-27T12:40:07.000Z",
     "entities": "Robinhood",
     "topic": "hack",
