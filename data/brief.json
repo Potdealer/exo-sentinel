@@ -1,20 +1,20 @@
 {
-  "weekOf": "2026-05-03",
-  "generatedAt": "2026-05-10T13:07:44.789Z",
+  "weekOf": "2026-05-10",
+  "generatedAt": "2026-05-17T13:09:31.957Z",
   "eventCount": 1,
-  "summary": "This week has seen a significant uptick in DeFi protocol hacks, raising alarms among liquid and yield-focused crypto funds. The ongoing security breaches are creating a ripple effect, impacting investor confidence across the broader cryptocurrency market.",
+  "summary": "This week, the crypto security landscape has been significantly impacted by a high-profile spyware campaign targeting sensitive user data. The Operation HumanitarianBait has raised alarms due to its sophisticated use of fake aid documents to lure victims, highlighting the ongoing threat of social engineering in the crypto space.",
   "highlights": [
-    "On May 4th, a series of hacks targeting multiple DeFi protocols were reported, with analysts indicating that these incidents are pressuring liquid and yield-focused funds, potentially leading to a broader market downturn.",
-    "The hacks have predominantly affected Ethereum-based protocols, with losses estimated in the millions, further emphasizing the vulnerabilities present in DeFi ecosystems.",
-    "Security experts are urging immediate action as the frequency of these attacks appears to be increasing, with particular focus on protocols that have not implemented robust security measures."
+    "On May 12, a high-severity hack was reported involving a Python spyware campaign named Operation HumanitarianBait, which exploits fake aid documents to steal sensitive data, including cryptocurrency keys.",
+    "The campaign has been linked to a surge in phishing attempts, with reports indicating that users are being targeted through social media platforms like Telegram, leading to compromised accounts and potential financial losses.",
+    "Security experts warn that this type of social engineering attack is becoming more prevalent, with attackers increasingly leveraging current events to manipulate victims into divulging sensitive information."
   ],
-  "trends": "The current trend indicates a rising number of attacks on DeFi protocols, particularly those operating on the Ethereum blockchain. Attack vectors such as flash loan exploits and smart contract vulnerabilities are becoming more prevalent. Additionally, protocols that rely heavily on yield farming mechanisms are being targeted more frequently, suggesting a need for enhanced security audits and real-time monitoring.",
+  "trends": "The trend of social engineering attacks is on the rise, particularly those that exploit current global events such as humanitarian crises. Attackers are increasingly using sophisticated techniques to craft believable phishing schemes, targeting popular communication platforms like Telegram. Additionally, there is a noticeable uptick in the targeting of decentralized finance (DeFi) protocols, as users often hold significant amounts of cryptocurrency and may be less vigilant about security.",
   "riskLevel": "high",
   "recommendations": [
-    "Conduct comprehensive security audits for all smart contracts and implement bug bounty programs to incentivize white-hat hackers.",
-    "Utilize multi-signature wallets for fund management to reduce the risk of single points of failure.",
-    "Enhance monitoring of on-chain activities to detect unusual patterns that may indicate potential exploits or breaches.",
-    "Educate users on the risks associated with yield farming and the importance of diversifying their investments across multiple protocols.",
-    "Collaborate with other DeFi projects to share intelligence on vulnerabilities and emerging threats in the ecosystem."
+    "DeFi users should implement two-factor authentication (2FA) on all accounts and wallets to add an extra layer of security against unauthorized access.",
+    "Protocol teams should conduct regular security audits and educate users about the risks of phishing and social engineering attacks, emphasizing the importance of verifying sources before downloading any documents or clicking on links.",
+    "Users should avoid sharing sensitive information in public forums or social media, especially during times of crisis, to reduce the risk of being targeted by attackers using social engineering tactics.",
+    "Consider using hardware wallets for storing significant amounts of cryptocurrency, as they provide enhanced security against online threats.",
+    "Stay informed about ongoing security threats and updates from reputable security sources to remain vigilant against emerging attack vectors."
   ]
 }

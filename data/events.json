@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-12T12:59:21.000Z",
+    "entities": "cryptocurrency exchanges, DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "Hackers are reportedly using a Python spyware campaign dubbed Operation HumanitarianBait, utilizing fake aid documents to steal sensitive data including browser logins, Telegram sessions, and cryptocurrency keys.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mlnqntcwos2c",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-05-17T13:09:31.912Z"
+  },
+  {
     "timestamp": "2026-05-04T04:46:53.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",
