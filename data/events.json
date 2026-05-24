@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-18T18:39:19.000Z",
+    "entities": "cryptocurrency exchanges",
+    "topic": "hack",
+    "eventSummary": "A new macOS malware campaign known as Reaper uses fake Microsoft domains to trick users into running malicious Terminal commands. The malware is designed to steal browser data, passwords, and cryptocurrency wallets.\nSources:\n- https://bsky.app/profile/hackread.bsky.social/post/3mm5gy5gde22c",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-05-24T13:15:26.825Z"
+  },
+  {
     "timestamp": "2026-05-12T12:59:21.000Z",
     "entities": "cryptocurrency exchanges, DeFi protocols",
     "topic": "hack",

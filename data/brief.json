@@ -1,20 +1,20 @@
 {
-  "weekOf": "2026-05-10",
-  "generatedAt": "2026-05-17T13:09:31.957Z",
+  "weekOf": "2026-05-17",
+  "generatedAt": "2026-05-24T13:15:26.864Z",
   "eventCount": 1,
-  "summary": "This week, the crypto security landscape has been significantly impacted by a high-profile spyware campaign targeting sensitive user data. The Operation HumanitarianBait has raised alarms due to its sophisticated use of fake aid documents to lure victims, highlighting the ongoing threat of social engineering in the crypto space.",
+  "summary": "This week, the crypto security landscape has been significantly impacted by a new macOS malware campaign targeting users through deceptive Microsoft domains. The Reaper malware poses a serious threat by stealing sensitive browser data, passwords, and cryptocurrency wallets, highlighting the ongoing risks associated with social engineering attacks.",
   "highlights": [
-    "On May 12, a high-severity hack was reported involving a Python spyware campaign named Operation HumanitarianBait, which exploits fake aid documents to steal sensitive data, including cryptocurrency keys.",
-    "The campaign has been linked to a surge in phishing attempts, with reports indicating that users are being targeted through social media platforms like Telegram, leading to compromised accounts and potential financial losses.",
-    "Security experts warn that this type of social engineering attack is becoming more prevalent, with attackers increasingly leveraging current events to manipulate victims into divulging sensitive information."
+    "On May 18, a new macOS malware campaign named Reaper was identified, utilizing fake Microsoft domains to deceive users into executing harmful Terminal commands. This malware is specifically designed to extract sensitive information, including cryptocurrency wallet details.",
+    "The Reaper malware campaign underscores a growing trend in cyber threats where attackers leverage social engineering tactics to compromise user security, particularly within the cryptocurrency community.",
+    "As the crypto market continues to expand, the targeting of macOS users indicates a shift in focus from traditional Windows-based malware, suggesting that attackers are diversifying their strategies to exploit different operating systems."
   ],
-  "trends": "The trend of social engineering attacks is on the rise, particularly those that exploit current global events such as humanitarian crises. Attackers are increasingly using sophisticated techniques to craft believable phishing schemes, targeting popular communication platforms like Telegram. Additionally, there is a noticeable uptick in the targeting of decentralized finance (DeFi) protocols, as users often hold significant amounts of cryptocurrency and may be less vigilant about security.",
+  "trends": "There is a noticeable increase in social engineering attacks, particularly those utilizing malware to target macOS users. The Reaper campaign exemplifies this trend, indicating that attackers are adapting their methods to exploit vulnerabilities in user behavior rather than solely focusing on protocol weaknesses. Additionally, the rise in targeted phishing attacks suggests a need for enhanced user education and awareness regarding security practices.",
   "riskLevel": "high",
   "recommendations": [
-    "DeFi users should implement two-factor authentication (2FA) on all accounts and wallets to add an extra layer of security against unauthorized access.",
-    "Protocol teams should conduct regular security audits and educate users about the risks of phishing and social engineering attacks, emphasizing the importance of verifying sources before downloading any documents or clicking on links.",
-    "Users should avoid sharing sensitive information in public forums or social media, especially during times of crisis, to reduce the risk of being targeted by attackers using social engineering tactics.",
-    "Consider using hardware wallets for storing significant amounts of cryptocurrency, as they provide enhanced security against online threats.",
-    "Stay informed about ongoing security threats and updates from reputable security sources to remain vigilant against emerging attack vectors."
+    "Users should verify the authenticity of any software or updates by downloading directly from official sources and avoiding third-party links.",
+    "Implement multi-factor authentication (MFA) for all cryptocurrency wallets and accounts to add an additional layer of security against unauthorized access.",
+    "Educate users on recognizing phishing attempts and the importance of scrutinizing URLs before entering sensitive information.",
+    "Regularly update all software and operating systems to protect against known vulnerabilities that malware may exploit.",
+    "Encourage users to use hardware wallets for storing significant amounts of cryptocurrency, minimizing exposure to online threats."
   ]
 }
