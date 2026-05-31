@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-05-27T14:52:12.000Z",
+    "entities": "Stake DAO, LayerZero",
+    "topic": "hack",
+    "eventSummary": "A hacker exploited a stolen private key and a forged LayerZero message to mint 5.4 trillion unbacked tokens on the DeFi protocol Stake DAO, subsequently cashing out approximately $91,000 in ETH.\nSources:\n- https://twitter.com/1237544865216507906/status/2059648873325359248",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-05-31T13:26:28.657Z"
+  },
+  {
     "timestamp": "2026-05-18T18:39:19.000Z",
     "entities": "cryptocurrency exchanges",
     "topic": "hack",
