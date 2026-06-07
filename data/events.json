@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-01T08:20:26.000Z",
+    "entities": "Gnosis Pay",
+    "topic": "hack",
+    "eventSummary": "A hack involving a 'delay module' has been reported by Gnosis Pay. The entity stated they are working to contain the damage and confirmed that Gnosis will cover all user losses.\nSources:\n- https://twitter.com/63064338/status/2061362219984568719",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-06-07T13:42:50.847Z"
+  },
+  {
     "timestamp": "2026-05-27T14:52:12.000Z",
     "entities": "Stake DAO, LayerZero",
     "topic": "hack",
