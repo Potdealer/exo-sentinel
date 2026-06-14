@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-09T00:59:07.000Z",
+    "entities": "Humanity Protocol",
+    "topic": "hack",
+    "eventSummary": "Humanity Protocol suffered a $36 million exploit and hack. Investigations by Quantstamp suggest the involvement of North Korean threat actors who allegedly used a fake Bithumb email to facilitate the breach. The attacker was observed selling stolen $H tokens for $ETH.\nSources:\n- https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp\n- https://t.me/officer_cia/3521",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-06-14T13:52:05.397Z"
+  },
+  {
     "timestamp": "2026-06-01T08:20:26.000Z",
     "entities": "Gnosis Pay",
     "topic": "hack",
