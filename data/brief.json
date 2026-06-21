@@ -1,20 +1,19 @@
 {
-  "weekOf": "2026-06-07",
-  "generatedAt": "2026-06-14T13:52:05.436Z",
+  "weekOf": "2026-06-14",
+  "generatedAt": "2026-06-21T13:58:52.024Z",
   "eventCount": 1,
-  "summary": "This week witnessed a significant security breach involving the Humanity Protocol, resulting in a loss of $36 million. The incident highlights the ongoing threat posed by state-sponsored actors, particularly from North Korea, and underscores the need for enhanced security measures across DeFi protocols.",
+  "summary": "This week witnessed a significant security breach in the crypto space, with Humanity Protocol losing $36 million due to a sophisticated phishing attack linked to North Korean threat actors. The incident underscores the ongoing risks associated with social engineering and targeted attacks on DeFi protocols.",
   "highlights": [
-    "On June 9, Humanity Protocol suffered a $36 million hack attributed to North Korean threat actors, who used a fake Bithumb email to execute the breach and subsequently sold stolen $H tokens for $ETH.",
-    "The involvement of state-sponsored actors in the crypto space is becoming increasingly prevalent, raising alarms about the sophistication of their tactics and the potential for further attacks on vulnerable protocols.",
-    "Investigations by Quantstamp into the Humanity Protocol incident reveal a concerning trend of targeted phishing attacks aimed at exploiting weaknesses in communication channels between protocols and their users."
+    "On June 16, Humanity Protocol suffered a $36 million loss from a hack involving a fake Bithumb email, with Quantstamp attributing the attack to North Korean threat actors.",
+    "The attack highlights the increasing sophistication of phishing schemes targeting cryptocurrency protocols, emphasizing the need for enhanced user education and security measures."
   ],
-  "trends": "The recent hack of Humanity Protocol indicates a rising trend in targeted attacks by state-sponsored groups, particularly focusing on DeFi protocols with significant financial assets. Phishing and social engineering tactics are becoming more sophisticated, suggesting that protocols must enhance their user education and security measures. Additionally, the trend of attackers converting stolen assets into more stable cryptocurrencies like ETH indicates a need for monitoring and rapid response capabilities to mitigate losses.",
-  "riskLevel": "critical",
+  "trends": "The recent hack indicates a troubling trend of rising phishing attacks, particularly those leveraging social engineering tactics to deceive users into divulging sensitive information. Protocols in the DeFi space remain prime targets, especially those with significant financial backing. Additionally, the involvement of state-sponsored actors suggests an escalation in the threat landscape, particularly for protocols operating on Ethereum and other popular chains.",
+  "riskLevel": "high",
   "recommendations": [
-    "Implement multi-factor authentication (MFA) for all user accounts and administrative access to reduce the risk of unauthorized access.",
-    "Enhance user education programs focusing on recognizing phishing attempts and securing personal wallets against social engineering attacks.",
-    "Conduct regular security audits and penetration testing on protocols to identify and remediate vulnerabilities before they can be exploited.",
-    "Establish a rapid response team to monitor for unusual activity and respond swiftly to potential breaches, including real-time tracking of asset movements post-incident.",
-    "Collaborate with cybersecurity firms to share threat intelligence and improve overall security posture against state-sponsored threats."
+    "Implement multi-factor authentication (MFA) for all user accounts to mitigate the risk of unauthorized access.",
+    "Educate users on recognizing phishing attempts, particularly those involving fake emails from exchanges or service providers.",
+    "Conduct regular security audits and penetration testing to identify and address vulnerabilities within the protocol.",
+    "Establish a rapid response team to address security incidents and communicate effectively with users during breaches.",
+    "Consider integrating advanced threat detection systems that utilize machine learning to identify and mitigate phishing attacks in real-time."
   ]
 }

@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-16T08:59:27.000Z",
+    "entities": "Humanity Protocol",
+    "topic": "hack",
+    "eventSummary": "Humanity Protocol suffered a $36 million loss following a hack involving a fake Bithumb email. Security firm Quantstamp linked the attack to North Korean threat actors.\nSources:\n- https://cointelegraph.com/news/humanity-protocol-hack-linked-north-korean-actors-quantstamp",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-06-21T13:58:51.976Z"
+  },
+  {
     "timestamp": "2026-06-09T00:59:07.000Z",
     "entities": "Humanity Protocol",
     "topic": "hack",
