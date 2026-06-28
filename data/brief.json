@@ -1,19 +1,20 @@
 {
-  "weekOf": "2026-06-14",
-  "generatedAt": "2026-06-21T13:58:52.024Z",
+  "weekOf": "2026-06-21",
+  "generatedAt": "2026-06-28T13:26:18.118Z",
   "eventCount": 1,
-  "summary": "This week witnessed a significant security breach in the crypto space, with Humanity Protocol losing $36 million due to a sophisticated phishing attack linked to North Korean threat actors. The incident underscores the ongoing risks associated with social engineering and targeted attacks on DeFi protocols.",
+  "summary": "This week witnessed a significant security breach at Polymarket, where hackers exploited a vulnerability through a third-party vendor, leading to millions in losses for users. The incident underscores the ongoing risks associated with third-party integrations in the DeFi space.",
   "highlights": [
-    "On June 16, Humanity Protocol suffered a $36 million loss from a hack involving a fake Bithumb email, with Quantstamp attributing the attack to North Korean threat actors.",
-    "The attack highlights the increasing sophistication of phishing schemes targeting cryptocurrency protocols, emphasizing the need for enhanced user education and security measures."
+    "On June 25, Polymarket's website was compromised due to a hack involving a third-party vendor, resulting in the theft of millions of dollars in cryptocurrency. The platform has committed to refunding affected users.",
+    "The breach highlights vulnerabilities in third-party services that DeFi protocols often rely on, raising concerns about the security of user funds.",
+    "Polymarket's proactive response to refund users may set a precedent for other platforms facing similar security challenges."
   ],
-  "trends": "The recent hack indicates a troubling trend of rising phishing attacks, particularly those leveraging social engineering tactics to deceive users into divulging sensitive information. Protocols in the DeFi space remain prime targets, especially those with significant financial backing. Additionally, the involvement of state-sponsored actors suggests an escalation in the threat landscape, particularly for protocols operating on Ethereum and other popular chains.",
+  "trends": "The recent hack at Polymarket indicates a troubling trend of increasing attacks targeting third-party vendors associated with DeFi protocols. As protocols continue to integrate various external services, the risk of supply chain attacks appears to be on the rise. This incident serves as a reminder that the security of the entire ecosystem can be compromised through a single weak link.",
   "riskLevel": "high",
   "recommendations": [
-    "Implement multi-factor authentication (MFA) for all user accounts to mitigate the risk of unauthorized access.",
-    "Educate users on recognizing phishing attempts, particularly those involving fake emails from exchanges or service providers.",
-    "Conduct regular security audits and penetration testing to identify and address vulnerabilities within the protocol.",
-    "Establish a rapid response team to address security incidents and communicate effectively with users during breaches.",
-    "Consider integrating advanced threat detection systems that utilize machine learning to identify and mitigate phishing attacks in real-time."
+    "Conduct thorough security audits of all third-party vendors and service providers to identify potential vulnerabilities.",
+    "Implement multi-factor authentication and other security measures for user accounts to mitigate the impact of potential breaches.",
+    "Establish a clear incident response plan that includes user compensation strategies to maintain trust in the platform.",
+    "Encourage users to utilize hardware wallets and other secure storage solutions to protect their assets from online threats.",
+    "Stay informed about emerging threats and trends in the DeFi space to adapt security measures proactively."
   ]
 }

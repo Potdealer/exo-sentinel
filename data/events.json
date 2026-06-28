@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-06-25T21:09:59.000Z",
+    "entities": "Polymarket",
+    "topic": "hack",
+    "eventSummary": "Hackers infiltrated Polymarket's website via a compromised third-party vendor, resulting in millions of dollars in cryptocurrency being stolen from users. Polymarket has announced it will refund the affected users.\nSources:\n- https://decrypt.co/372129/polymarket-refund-users-scammers-swipe-millions-website-exploit",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-06-28T13:26:18.073Z"
+  },
+  {
     "timestamp": "2026-06-16T08:59:27.000Z",
     "entities": "Humanity Protocol",
     "topic": "hack",
