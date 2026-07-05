@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-01T11:42:05.000Z",
+    "entities": "DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "Humanity Protocol suffered a major security exploit resulting in a $31 million to $36 million loss, leading the founder to announce a pivot toward enterprise AI due to low odds of fund recovery. The incident topped PeckShield's list of crypto hacks for June.\nSources:\n- https://t.me/the_block_crypto/35116\n- https://t.me/the_block_crypto/35092",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-07-05T13:20:55.158Z"
+  },
+  {
     "timestamp": "2026-06-25T21:09:59.000Z",
     "entities": "Polymarket",
     "topic": "hack",
