@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-06T20:50:49.000Z",
+    "entities": "DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "A decentralized finance organization was exploited for $20 million in cryptocurrency. Attackers accumulated significant amounts of the BONK token to manipulate governance votes and transfer additional funds to their own wallets.\nSources:\n- https://bsky.app/profile/therecordmedia.bsky.social/post/3mpyxepslwk2a",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-07-12T13:08:41.553Z"
+  },
+  {
     "timestamp": "2026-07-01T11:42:05.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",
