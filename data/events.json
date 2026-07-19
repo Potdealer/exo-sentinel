@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-14T01:03:42.000Z",
+    "entities": "DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "Drift Protocol has opened claims for users affected by a past hack as it rebrands to Velocity Exchange.\nSources:\n- https://www.reddit.com/r/CryptoCurrency/comments/1uvkcn2/til_some_tokens_from_drift_protocol_hack_are",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-07-19T13:05:55.136Z"
+  },
+  {
     "timestamp": "2026-07-06T20:50:49.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",
