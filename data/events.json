@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-19T20:50:31.000Z",
+    "entities": "Upbit",
+    "topic": "hack",
+    "eventSummary": "Upbit parent company Dunamu is facing a sanction process in South Korea nearly eight months after a $30 million hack, highlighting gaps in current crypto laws regarding hacking or IT failures.\nSources:\n- https://t.me/the_block_crypto/35345",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-07-26T13:09:17.389Z"
+  },
+  {
     "timestamp": "2026-07-14T01:03:42.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",

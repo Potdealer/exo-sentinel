@@ -1,20 +1,20 @@
 {
-  "weekOf": "2026-07-12",
-  "generatedAt": "2026-07-19T13:05:55.175Z",
+  "weekOf": "2026-07-19",
+  "generatedAt": "2026-07-26T13:09:17.433Z",
   "eventCount": 1,
-  "summary": "This week, the crypto security landscape has been marked by significant developments, particularly the Drift Protocol's rebranding to Velocity Exchange following a past hack. Users are now able to claim losses from this incident, highlighting ongoing vulnerabilities in DeFi protocols.",
+  "summary": "This week, the crypto security landscape has been marked by significant regulatory scrutiny following a high-profile hack. The ongoing sanction process against Dunamu, the parent company of Upbit, underscores the need for improved security measures and regulatory frameworks in the crypto space.",
   "highlights": [
-    "Drift Protocol has opened claims for users affected by a previous hack as it transitions to Velocity Exchange, indicating a proactive approach to user compensation and security.",
-    "The hack that affected Drift Protocol raised concerns about the security of DeFi platforms, emphasizing the need for robust security measures in smart contract development.",
-    "Community discussions on Reddit have revealed ongoing concerns about the safety of funds in DeFi protocols, suggesting a heightened awareness among users regarding potential vulnerabilities."
+    "Dunamu, the parent company of Upbit, is facing sanctions in South Korea due to a $30 million hack that occurred eight months ago, revealing vulnerabilities in crypto regulations.",
+    "The hack has raised concerns about the adequacy of current laws regarding cybersecurity in the crypto sector, prompting discussions on regulatory reforms.",
+    "The incident has sparked a wave of scrutiny on other exchanges, as regulators seek to ensure compliance and enhance security protocols across the industry."
   ],
-  "trends": "The trend of hacks in DeFi protocols remains concerning, with Drift Protocol being the latest victim. There is a noticeable increase in discussions surrounding security practices, indicating that users are becoming more vigilant. However, the frequency of successful hacks appears to be stabilizing, suggesting that some protocols are improving their security measures. The Ethereum chain continues to be a primary target for attacks, reflecting its dominance in the DeFi space.",
+  "trends": "There is a noticeable trend of increasing regulatory actions targeting exchanges following significant hacks, indicating a shift towards stricter oversight in the crypto industry. The focus on centralized exchanges like Upbit suggests that they are becoming prime targets for attackers, while decentralized finance (DeFi) protocols may see a decrease in attention as regulatory bodies prioritize larger, more visible entities. The risk of hacks remains elevated, particularly for platforms that lack robust security measures and compliance protocols.",
   "riskLevel": "high",
   "recommendations": [
-    "DeFi users should conduct thorough research on the security history of protocols before investing or using their services.",
-    "Protocol teams must prioritize regular security audits and implement bug bounty programs to identify vulnerabilities proactively.",
-    "Users should diversify their holdings across multiple protocols to mitigate risks associated with individual platform hacks.",
-    "Implement multi-signature wallets for governance and treasury management to reduce the risk of single points of failure.",
-    "Stay informed about ongoing security incidents and community discussions to adapt quickly to emerging threats."
+    "Enhance security protocols by implementing multi-factor authentication and regular security audits for all platforms.",
+    "Develop and maintain a comprehensive incident response plan to address potential breaches swiftly and effectively.",
+    "Engage with regulatory bodies to stay informed about compliance requirements and best practices for cybersecurity.",
+    "Invest in advanced monitoring tools to detect unusual activity and potential breaches in real-time.",
+    "Educate users on best practices for securing their assets, including the importance of using hardware wallets and recognizing phishing attempts."
   ]
 }
