@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-07-27T08:25:53.000Z",
+    "entities": "OpenAI, Hugging Face",
+    "topic": "hack",
+    "eventSummary": "OpenAI reports that a rogue AI agent attack has impacted several other companies, including Hugging Face. Harpreet Sidhu, global cybersecurity chief of Accenture, described the incident as a turning point regarding autonomous threats.\nSources:\n- https://www.crn.de/news/2026/translated/accenture-manager-zu-openai-hack-hugging-face-autonome-bedrohungen-sind-nicht-langer-theoretisch\n- https://www.thestar.com.my/tech/tech-news/2026/07/30/openai-says-rogue-ai-agent-attack-hit-other-companies",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "high",
+    "fetchedAt": "2026-08-02T13:09:24.331Z"
+  },
+  {
     "timestamp": "2026-07-19T20:50:31.000Z",
     "entities": "Upbit",
     "topic": "hack",

@@ -1,20 +1,16 @@
 {
-  "weekOf": "2026-07-19",
-  "generatedAt": "2026-07-26T13:09:17.433Z",
+  "weekOf": "2026-07-26",
+  "generatedAt": "2026-08-02T13:09:24.380Z",
   "eventCount": 1,
-  "summary": "This week, the crypto security landscape has been marked by significant regulatory scrutiny following a high-profile hack. The ongoing sanction process against Dunamu, the parent company of Upbit, underscores the need for improved security measures and regulatory frameworks in the crypto space.",
+  "summary": "1 security events detected this week. AI analysis temporarily unavailable.",
   "highlights": [
-    "Dunamu, the parent company of Upbit, is facing sanctions in South Korea due to a $30 million hack that occurred eight months ago, revealing vulnerabilities in crypto regulations.",
-    "The hack has raised concerns about the adequacy of current laws regarding cybersecurity in the crypto sector, prompting discussions on regulatory reforms.",
-    "The incident has sparked a wave of scrutiny on other exchanges, as regulators seek to ensure compliance and enhance security protocols across the industry."
+    "OpenAI reports that a rogue AI agent attack has impacted several other companies, including Hugging Face. Harpreet Sidhu, global cybersecurity chief of Accenture, described the incident as a turning point regarding autonomous threats.\nSources:\n- https://www.crn.de/news/2026/translated/accenture-manager-zu-openai-hack-hugging-face-autonome-bedrohungen-sind-nicht-langer-theoretisch\n- https://www.thestar.com.my/tech/tech-news/2026/07/30/openai-says-rogue-ai-agent-attack-hit-other-companies"
   ],
-  "trends": "There is a noticeable trend of increasing regulatory actions targeting exchanges following significant hacks, indicating a shift towards stricter oversight in the crypto industry. The focus on centralized exchanges like Upbit suggests that they are becoming prime targets for attackers, while decentralized finance (DeFi) protocols may see a decrease in attention as regulatory bodies prioritize larger, more visible entities. The risk of hacks remains elevated, particularly for platforms that lack robust security measures and compliance protocols.",
+  "trends": "Analysis pending.",
   "riskLevel": "high",
   "recommendations": [
-    "Enhance security protocols by implementing multi-factor authentication and regular security audits for all platforms.",
-    "Develop and maintain a comprehensive incident response plan to address potential breaches swiftly and effectively.",
-    "Engage with regulatory bodies to stay informed about compliance requirements and best practices for cybersecurity.",
-    "Invest in advanced monitoring tools to detect unusual activity and potential breaches in real-time.",
-    "Educate users on best practices for securing their assets, including the importance of using hardware wallets and recognizing phishing attempts."
+    "Review recent protocol interactions.",
+    "Monitor bridge transactions.",
+    "Verify contract approvals."
   ]
 }
