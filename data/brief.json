@@ -1,16 +1,12 @@
 {
-  "weekOf": "2026-07-26",
-  "generatedAt": "2026-08-02T13:09:24.380Z",
-  "eventCount": 1,
-  "summary": "1 security events detected this week. AI analysis temporarily unavailable.",
-  "highlights": [
-    "OpenAI reports that a rogue AI agent attack has impacted several other companies, including Hugging Face. Harpreet Sidhu, global cybersecurity chief of Accenture, described the incident as a turning point regarding autonomous threats.\nSources:\n- https://www.crn.de/news/2026/translated/accenture-manager-zu-openai-hack-hugging-face-autonome-bedrohungen-sind-nicht-langer-theoretisch\n- https://www.thestar.com.my/tech/tech-news/2026/07/30/openai-says-rogue-ai-agent-attack-hit-other-companies"
-  ],
-  "trends": "Analysis pending.",
-  "riskLevel": "high",
+  "weekOf": "2026-08-02",
+  "generatedAt": "2026-08-09T12:38:38.754Z",
+  "summary": "No significant onchain security incidents detected this week.",
+  "highlights": [],
+  "trends": "Quiet week in onchain security. Continue monitoring bridge protocols and new token launches.",
+  "riskLevel": "low",
   "recommendations": [
-    "Review recent protocol interactions.",
-    "Monitor bridge transactions.",
-    "Verify contract approvals."
+    "Maintain standard security posture.",
+    "Review smart contract dependencies for known CVEs."
   ]
 }
