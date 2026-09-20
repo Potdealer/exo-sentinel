@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-13T21:09:14.000Z",
+    "entities": "DeFi protocols",
+    "topic": "hack",
+    "eventSummary": "A hacker minted $46 billion in fake syBTC on the Symbiosis bridge DeFi protocol and successfully cashed out approximately $336,000.\nSources:\n- https://pluang.com/en/news-feed/peretasan-symbiosis-mencetak-sybtc-palsu-rugi-336ribu-dollar",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "critical",
+    "fetchedAt": "2026-09-20T15:18:16.741Z"
+  },
+  {
     "timestamp": "2026-07-27T08:25:53.000Z",
     "entities": "OpenAI, Hugging Face",
     "topic": "hack",

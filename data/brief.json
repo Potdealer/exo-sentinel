@@ -1,12 +1,16 @@
 {
-  "weekOf": "2026-09-06",
-  "generatedAt": "2026-09-13T15:29:50.609Z",
-  "summary": "No significant onchain security incidents detected this week.",
-  "highlights": [],
-  "trends": "Quiet week in onchain security. Continue monitoring bridge protocols and new token launches.",
-  "riskLevel": "low",
+  "weekOf": "2026-09-13",
+  "generatedAt": "2026-09-20T15:18:16.777Z",
+  "eventCount": 1,
+  "summary": "1 security events detected this week. AI analysis temporarily unavailable.",
+  "highlights": [
+    "A hacker minted $46 billion in fake syBTC on the Symbiosis bridge DeFi protocol and successfully cashed out approximately $336,000.\nSources:\n- https://pluang.com/en/news-feed/peretasan-symbiosis-mencetak-sybtc-palsu-rugi-336ribu-dollar"
+  ],
+  "trends": "Analysis pending.",
+  "riskLevel": "critical",
   "recommendations": [
-    "Maintain standard security posture.",
-    "Review smart contract dependencies for known CVEs."
+    "Review recent protocol interactions.",
+    "Monitor bridge transactions.",
+    "Verify contract approvals."
   ]
 }
