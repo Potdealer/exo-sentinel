@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-09-29T00:09:34.000Z",
+    "entities": "Kelp DAO",
+    "topic": "hack",
+    "eventSummary": "Kelp DAO, a liquid restaking DeFi protocol, was the victim of a cyberattack in April attributed to the North Korean Lazarus Group, resulting in the theft of approximately $292 million. Chainlink's CCIP 2.0 update was subsequently highlighted as a security measure for banks to manage cross-chain security keys in the wake of such breaches.\nSources:\n- https://finance.biggo.com/news/3c1da699-fc7b-4998-99e5-e6c82f270c27",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "critical",
+    "fetchedAt": "2026-10-04T16:20:33.498Z"
+  },
+  {
     "timestamp": "2026-09-13T21:09:14.000Z",
     "entities": "DeFi protocols",
     "topic": "hack",
