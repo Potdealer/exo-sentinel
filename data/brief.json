@@ -1,16 +1,12 @@
 {
-  "weekOf": "2026-09-27",
-  "generatedAt": "2026-10-04T16:20:33.548Z",
-  "eventCount": 1,
-  "summary": "1 security events detected this week. AI analysis temporarily unavailable.",
-  "highlights": [
-    "Kelp DAO, a liquid restaking DeFi protocol, was the victim of a cyberattack in April attributed to the North Korean Lazarus Group, resulting in the theft of approximately $292 million. Chainlink's CCIP 2.0 update was subsequently highlighted as a security measure for banks to manage cross-chain security keys in the wake of such breaches.\nSources:\n- https://finance.biggo.com/news/3c1da699-fc7b-4998-99e5-e6c82f270c27"
-  ],
-  "trends": "Analysis pending.",
-  "riskLevel": "critical",
+  "weekOf": "2026-10-04",
+  "generatedAt": "2026-10-11T17:14:10.171Z",
+  "summary": "No significant onchain security incidents detected this week.",
+  "highlights": [],
+  "trends": "Quiet week in onchain security. Continue monitoring bridge protocols and new token launches.",
+  "riskLevel": "low",
   "recommendations": [
-    "Review recent protocol interactions.",
-    "Monitor bridge transactions.",
-    "Verify contract approvals."
+    "Maintain standard security posture.",
+    "Review smart contract dependencies for known CVEs."
   ]
 }
