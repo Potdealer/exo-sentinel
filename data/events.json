@@ -1,5 +1,15 @@
 [
   {
+    "timestamp": "2026-10-30T15:59:29.000Z",
+    "entities": "Binance",
+    "topic": "hack",
+    "eventSummary": "Binance was reportedly targeted in a $6.3 billion hack, described as one of the largest cryptocurrency heists to date, with investigators currently examining potential links to North Korea.\nSources:\n- https://www.businesstoday.in/bt-tv/whats-hot/video/binance-6-3-billion-hack-biggest-crypto-heist-ever-north-korea-link-under-scanner-564792-2026-10-30",
+    "_category": "hack",
+    "_queryEntities": "cryptocurrency exchanges, DeFi protocols",
+    "severity": "critical",
+    "fetchedAt": "2026-11-01T17:31:50.448Z"
+  },
+  {
     "timestamp": "2026-09-29T00:09:34.000Z",
     "entities": "Kelp DAO",
     "topic": "hack",

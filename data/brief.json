@@ -1,12 +1,16 @@
 {
-  "weekOf": "2026-10-18",
-  "generatedAt": "2026-10-25T15:26:17.961Z",
-  "summary": "No significant onchain security incidents detected this week.",
-  "highlights": [],
-  "trends": "Quiet week in onchain security. Continue monitoring bridge protocols and new token launches.",
-  "riskLevel": "low",
+  "weekOf": "2026-10-25",
+  "generatedAt": "2026-11-01T17:31:50.487Z",
+  "eventCount": 1,
+  "summary": "1 security events detected this week. AI analysis temporarily unavailable.",
+  "highlights": [
+    "Binance was reportedly targeted in a $6.3 billion hack, described as one of the largest cryptocurrency heists to date, with investigators currently examining potential links to North Korea.\nSources:\n- https://www.businesstoday.in/bt-tv/whats-hot/video/binance-6-3-billion-hack-biggest-crypto-heist-ever-north-korea-link-under-scanner-564792-2026-10-30"
+  ],
+  "trends": "Analysis pending.",
+  "riskLevel": "critical",
   "recommendations": [
-    "Maintain standard security posture.",
-    "Review smart contract dependencies for known CVEs."
+    "Review recent protocol interactions.",
+    "Monitor bridge transactions.",
+    "Verify contract approvals."
   ]
 }
